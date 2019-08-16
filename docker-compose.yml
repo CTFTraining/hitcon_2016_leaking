@@ -10,4 +10,4 @@ services:
     environment:
       - FLAG=flag{flag_test}
     ports:
-      - "127.0.0.1:8300:80"
+      - "127.0.0.1:8300:3000"
